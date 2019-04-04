@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Healthy Me",
-    "description": "Health Purposes",
-    "slug": "react-native-starter-lite",
+    "name": "Match Me",
+    "description": "Sci Plant",
+    "slug": "matchme",
     "githubUrl": "https://github.com/flatlogic/react-native-starter",
     "primaryColor": "#555CC4",
     "privacy": "public",
@@ -19,15 +19,14 @@
     },
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.reactnativestarter.lite"
+      "bundleIdentifier": "com.matchme.lite"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
     "android": {
-      "package": "com.reactnativestarter.lite",
-      "versionCode": 2,
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.reactnativestarter.lite"
+      "package": "com.matchme.lite",
+      "versionCode": 2
     }
   }
 }

@@ -25,7 +25,7 @@ const stackNavigator = createStackNavigator(
             screen: MainTabNavigator,
             navigationOptions: ({ navigation }) => {
                 return {
-                    title: 'Healthy Me',
+                    title: 'Match Me',
                     headerLeft: null,
                     headerBackground: (
                         <Image

@@ -11,17 +11,20 @@ import {
 import {Entypo as Icon} from '@expo/vector-icons';
 import {Colors, Fonts} from '../constants';
 
+
 const chartIcon = require('../../assets/images/pages/chart.png');
 const calendarIcon = require('../../assets/images/pages/calendar.png');
 const chatIcon = require('../../assets/images/pages/chat.png');
 const galleryIcon = require('../../assets/images/pages/gallery.png');
 const profileIcon = require('../../assets/images/pages/profile.png');
+// More info on all the options is below in the API Reference... just some common use cases shown here
+
 
 export default function ProfileScreen(props) {
   return (
     <View style={styles.container}>
       <View style={styles.row}>
-  
+          
       </View>
     </View>
   );
